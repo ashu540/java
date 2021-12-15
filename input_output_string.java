@@ -1,3 +1,5 @@
+https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true
+
 package com.company;
 
 import java.util.Scanner;
